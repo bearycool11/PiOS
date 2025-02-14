@@ -11,13 +11,10 @@ To add your project to the list follow the instructions [here](/README.md)
 
 | **Title**     | **Description**                                            | **Category**         | **Programming Language/Framework** | **Link To  Repo** | **Link to Pi Brainstorm** (if applicable) |
 |---------------|------------------------------------------------------------|----------------------|------------------------------------|-------------------|---------------------------|
-| Pi os Gravity Bridge on IBC for the Pi TOken | PiOS Gravity Bridge is a decentralized, trustless, and permissionless bridging solution that enables seamless interaction between PiOS, Ethereum (ETH), and Bitcoin (BTC) ecosystems. By leveraging the Inter-Blockchain Communication (IBC) protocol and Gravity Bridge technology, this project aims to create a robust and scalable bridge that facilitates the transfer of assets, data, and value between these three prominent blockchain networks.
+| Pi OS Gravity Bridge on IBC for the Pi TOken | PiOS Gravity Bridge is a decentralized, trustless, and permissionless bridging solution that enables seamless interaction between PiOS, Ethereum (ETH), and Bitcoin (BTC) ecosystems. By leveraging the Inter-Blockchain Communication (IBC) protocol and .
 Gravity Bridging: Utilize Gravity Bridge's innovative technology to enable trustless and permissionless bridging between PiOS, ETH, and BTC.
-IBC Integration: Leverage the IBC protocol to facilitate seamless communication and asset transfer between the three blockchain networks.
-Zero-Layer Bridging: Operate on the Zero Layer of the IBC, ensuring maximum security, scalability, and decentralization.
-Multi-Asset Support: Enable the transfer of multiple assets, including tokens, coins, and other digital assets, between PiOS, ETH, and BTC.
 Decentralized Governance: Implement a decentralized governance model, allowing the community to participate in decision-making and ensuring the bridge's neutrality and security.
-Benefits: | Bridiging | JS/React on PRs #270 and #276        | 02-14-2925           |     (https://github.com/bearycool11/PiOS)        |
+Benefits: | Bridiging | JS/React on PRs #270 and #276        | 02-14-2925           |   [Gravity-pi-bridge]  (https://github.com/bearycool11/PiOS) |         |
 | Pi SDK for Python | Python version of the Pi SDK for making App2Pioneer Payments   | SDK | Python        | [pi-python](https://github.com/pi-apps/pi-python)             |                           |
 | Pi SDK for Blazor | Blazor version of the Pi SDK for Blazor applications  | SDK | C#, .NET, .NET Core        | [pi-blazor](https://github.com/pi-apps/pi-blazor)             |                           |
 | Pi SDK for C# | C# version of the Pi SDK for NET applications  | SDK | C#, .NET, .NET Standard 2.0        |      [pi-c#](https://github.com/pi-apps/pi-csharp)        |                           |
